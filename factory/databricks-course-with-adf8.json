@@ -1,0 +1,15 @@
+{
+	"name": "databricks-course-with-adf8",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fef09f01-6d8f-4de3-ab57-066d223dea47",
+		"tenantId": "4e85dbc6-030f-4295-b58c-47adacc7a486"
+	}
+}
